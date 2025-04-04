@@ -1,6 +1,7 @@
 "use client"
 import { useEffect, useMemo, useState } from "react"
 
+// TODO: optimize
 export default function TrafficSignal() {
     const order = ['R', 'Y', 'G']
 
