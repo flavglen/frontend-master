@@ -1,0 +1,7 @@
+.flex-wrapper {
+  display: flex;
+}
+
+.board-wrapper {
+    width: 33%;
+}
